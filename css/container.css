@@ -1,0 +1,33 @@
+.container {
+  min-width: 320px;
+  max-width: 420px;
+  width: 100%;
+  margin: 0 auto;
+  padding-block: 20px;
+}
+
+.section {
+  padding-block: 60px;
+}
+
+/* Styles for Tablet devices */
+@media only screen and (min-width: 810px) {
+  .container {
+    max-width: 810px;
+    padding: 0 32px;
+  }
+
+  .section {
+    padding-block: 112px;
+  }
+}
+/* Styles for Desktop devices */
+@media (min-width: 1440px) {
+  .container {
+    max-width: 1440px;
+  }
+
+  .section {
+    padding-block: 112px;
+  }
+}

@@ -24,3 +24,13 @@
   --second-family: "DM Sans", sans-serif;
   --third-family: "DIN Pro", sans-serif;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", "DM Sans", sans-serif;
+  color: #4b5162;
+  background-color: #fff;
+}
