@@ -1,0 +1,13 @@
+@import url(./style.css);
+@import url(./reset.css);
+@import url(./container.css);
+
+@import url(./header.css);
+@import url(./hero.css);
+@import url(./partner.css);
+@import url(./value.css);
+@import url(./experience.css);
+@import url(./trial.css);
+@import url(./solution.css);
+@import url(./faq.css);
+@import url(./footer.css);

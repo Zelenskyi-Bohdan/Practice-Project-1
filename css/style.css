@@ -1,0 +1,26 @@
+:root {
+  --neutral-n0: #fff;
+  --primary-pr400: #88b2f9;
+  --neutral-1000: #1c1f25;
+  --neutral-n300: #d2d5e2;
+  --primary-pr600: #387ff5;
+  --neutral-n100: #f5f7fa;
+  --neutral-n800: #4b5162;
+  --neutral-n400: #b6bccd;
+  --primary-pr500: #6099f7;
+  --neutral-n500: #9ea5bd;
+  --neutral-n600: #79829f;
+  --neutral-n200: #eceef4;
+  --neutral-n900: #343844;
+  --neutral-n700: #626981;
+  --primary-pr800: #224c93;
+  --primary-pr700: #2d66c4;
+  --primary-pr300: #b6d1fb;
+  --primary-pr200: #e2ecfe;
+
+  /* Fonts */
+
+  --font-family: "Inter", sans-serif;
+  --second-family: "DM Sans", sans-serif;
+  --third-family: "DIN Pro", sans-serif;
+}
